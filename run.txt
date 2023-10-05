@@ -1,0 +1,2 @@
+pip install httpx colorama tls-client imaplib
+python main.py

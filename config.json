@@ -1,0 +1,11 @@
+{
+    "proxy": {
+        "proxyless": false,
+        "http2": true,
+        "request_timeout": 60
+    },
+    "password": "Enes123@",
+    "email_provider": "KOOPECHKA",
+    "email_key": "904ce0a1f81d38c3419bc534ec37ee0d",
+    "email_domain": ["hotmail.com", "outlook.com"]
+}
